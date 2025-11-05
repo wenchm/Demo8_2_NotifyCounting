@@ -7,6 +7,8 @@ git add README.md
 git commit -m "first commit"
 git branch -M master
 git remote add origin https://github.com/wenchm/Demo8_2_NotifyCounting.git
+
+git remote v
 git push -u origin master
 
 # push an existing repository from the command line
